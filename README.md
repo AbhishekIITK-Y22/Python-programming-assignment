@@ -1,5 +1,5 @@
 # Python-programming-assignment
-# Random Forest Classifier for Education Prediction
+##Random Forest Classifier for Education Prediction
 
 This repository contains code for a machine learning model based on a Random Forest Classifier to predict education levels based on various features. The model is trained on a dataset containing information about individuals' constituencies, political affiliations, criminal history, financial status, and state.
 
@@ -10,35 +10,35 @@ This repository contains code for a machine learning model based on a Random For
 
 ## Usage
 
-1. Clone the repository:
-git clone <repository-url>
-2.install the required dependencies using
-pip install pandas scikit-learn
-3.run using
-python3 assignment.py
-4.The predictions will be saved in submission_random_forest.csv.
+1. Clone the repository: <br>
+git clone <repository-url><br>
+2.install the required dependencies using<br>
+pip install pandas scikit-learn<br>
+3.run using<br>
+python3 assignment.py<br>
+4.The predictions will be saved in submission_random_forest.csv.<br>
 
-##Dependencies
-Pandas: Used for data manipulation and preprocessing.
-scikit-learn: Library for machine learning models, including Random Forest Classifier.
+## Dependencies<br>
+Pandas: Used for data manipulation and preprocessing.<br>
+scikit-learn: Library for machine learning models, including Random Forest Classifier.<br>
 
-##Model details
-Algorithm: Random Forest Classifier
-Number of estimators: 100
-Random state: 42
+## Model details
+Algorithm: Random Forest Classifier<br>
+Number of estimators: 100<br>
+Random state: 42<br>
 
-##Dataset
-The dataset consists of the following features:
+## Dataset
+The dataset consists of the following features:<br>
 
-1.Constituency
-2.Party
-3.Criminal Case 
-4.Total Assets
-5.Liabilities
-6.State
+1.Constituency<br>
+2.Party<br>
+3.Criminal Case <br>
+4.Total Assets<br>
+5.Liabilities<br>
+6.State<br>
 
-And the target variable:
-Education
+And the target variable:<br>
+Education<br>
 
 
 
